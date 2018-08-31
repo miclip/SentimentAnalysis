@@ -63,7 +63,7 @@ namespace SentimentAnalysis
                 },
                 new SentimentData
                 {
-                SentimentText = "Mike, I don't want you doing that!"
+                SentimentText = "Mike, for the last time I don't want you doing that!"
                 },
                 new SentimentData
                 {
